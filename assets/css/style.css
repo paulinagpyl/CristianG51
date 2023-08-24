@@ -485,6 +485,7 @@ section {
 
 .about .content p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .about .content .count-box {
